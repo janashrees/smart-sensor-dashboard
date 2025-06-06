@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  background-color: #fff0f5;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+h1 {
+  color: #ff69b4;
+  margin-bottom: 20px;
+}
+
+table {
+  margin: auto;
+  border-collapse: collapse;
+  width: 90%;
+  background-color: #fffaf0;
+}
+
+th, td {
+  border: 1px solid #ffd700;
+  padding: 12px;
+  text-align: center;
+}
+
+th {
+  background-color: #ffebcd;
+  color: #ff69b4;
+}
